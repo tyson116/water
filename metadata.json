@@ -1,0 +1,6 @@
+{
+  "name": "Water Intake Tracker & Reminders",
+  "description": "Track daily water intake, customize hydration goals, set smart reminder schedules with audio chimes and browser alerts, and monitor weekly hydration progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
